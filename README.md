@@ -1,1 +1,3 @@
 Hello World
+
+Now I'll commit using the command line...
